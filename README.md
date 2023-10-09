@@ -1,6 +1,6 @@
 # Vue 3 + Vite
 
-Proyecto realizado bajo Vue 3 con Vite, vuex, vue-router, axios, y tailwind css
+Juego de memoria realizado bajo Vue 3 con Vite, vuex, vue-router, axios, y tailwind css
 
 Ejecución de proyecto: 
 npm install
